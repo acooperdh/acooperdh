@@ -1,12 +1,13 @@
 <!-- ### Hi there 👋 -->
 <h1 align="center">👋 Hey, I'm Drew! </h1>
 
-<p align="center">I am a 4th BCS @ Dalhousie University</p>
+<p align="center">I am a 4th year BCS @ Dalhousie University</p>
 
 <hr>
 
 - 🛠 I am currently working on completing my last year of courses 
 - 🌱I am learning Cloud Computing & Machine Learning 
+- 🤓I am interesting in collaborating on Discord Bot's & Serverless Applications
 <!--
 **acooperdh/acooperdh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
