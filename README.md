@@ -9,7 +9,8 @@
 - 🌱I am learning Cloud Computing & Web Development
 - 🤓I am interested in collaborating on Discord Bot's & Card Game solvers
 
-[![Drews's GitHub stats](https://github-readme-stats.vercel.app/api?username=acooperdh)](https://github.com/anuraghazra/github-readme-stats)
+[![Drew's GitHub stats](https://github-readme-stats.vercel.app/api?username=acooperdh&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acooperdh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **acooperdh/acooperdh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
