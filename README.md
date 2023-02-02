@@ -1,13 +1,16 @@
 <!-- ### Hi there 👋 -->
 <h1 align="center">👋 Hey, I'm Drew! </h1>
 
-<p align="center">I am a 4th year Bachelor of Computer Science student @ Dalhousie University</p>
+<p align="center">I am a recent Bachelor of Computer Science Graduate from Dalhousie University</p>
 
 <hr>
 
-- 🛠 I am currently working on completing my last co-op term
-- 🌱I am learning Cloud Computing & Web Development
-- 🤓I am interested in collaborating on Discord Bot's & Card Game solvers
+- 🛠 I am currently a Junior Software Developer @clockkcom
+- 🌱 I am learning DevOps + Web Development
+- 🤓 I am interested in AI/ML, Game Theory, Developer Tooling & Serverless 
+- 📫 You can reach me at
+  - 🐦 [@solv4drew](https://twitter.com/solv4drew)
+  - 📧 [drew@dal.ca](mailto:drew@dal.ca)
 
 [![Drew's GitHub stats](https://github-readme-stats.vercel.app/api?username=acooperdh&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acooperdh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
