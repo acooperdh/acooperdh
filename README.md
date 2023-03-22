@@ -10,7 +10,7 @@
 - 🤓 I am interested in AI/ML, Game Theory, Developer Tooling & Serverless 
 - 📫 You can reach me at
   - 🐦 [@solv4drew](https://twitter.com/solv4drew)
-  - 📧 [drew@dal.ca](mailto:drew@dal.ca)
+  - 📧 [acooper@dal.ca](mailto:acooper@dal.ca)
 
 [![Drew's GitHub stats](https://github-readme-stats.vercel.app/api?username=acooperdh&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acooperdh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
