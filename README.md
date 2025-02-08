@@ -5,7 +5,7 @@
 
 <hr>
 
-- 🛠 I am currently a Junior Software Developer @clockkcom
+- 🛠 Software Developer
 - 🌱 I am learning DevOps + Web Development
 - 🤓 I am interested in AI/ML, Game Theory, Developer Tooling & Serverless 
 - 📫 You can reach me at
