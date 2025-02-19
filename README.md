@@ -6,8 +6,9 @@
 <hr>
 
 - 🛠 Software Developer
-- 🌱 I am learning DevOps + Web Development
-- 🤓 I am interested in AI/ML, Game Theory, Developer Tooling & Serverless 
+- 🌱 I am learning Backend Infrastructure & Data Engineering
+- Currently I am working on Power Platform integrations in the Education Industry
+- 🤓 I am interested in AI/ML, Game Theory, Developer Tooling
 - 📫 You can reach me at
   - 🐦 [@solv4drew](https://twitter.com/solv4drew)
   - 📧 [acooper@dal.ca](mailto:acooper@dal.ca)
